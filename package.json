@@ -1,0 +1,19 @@
+{
+  "name": "from-browser",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yin Shanyang <me@yinshanyang.com> (http://yinshanyang.com)",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.19.0",
+    "puppeteer-extra": "^2.1.3",
+    "puppeteer-extra-plugin-anonymize-ua": "^2.1.4",
+    "puppeteer-extra-plugin-stealth": "^2.2.2",
+    "rxjs": "^6.5.3"
+  }
+}
